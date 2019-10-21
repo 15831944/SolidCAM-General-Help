@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <title>SolidCAM General Help</title>
+  <content>
+    <toc>
+      <name>Default</name>
+      <path>../../toc/Default.toc</path>
+    </toc>
+    <index type="boolean">true</index>
+    <glossary>
+      <name>Default</name>
+      <path>../../glossary/Default.glo</path>
+    </glossary>
+    <brs type="array"></brs>
+    <language>
+      <code type="number">1033</code>
+      <displayName>English (US)</displayName>
+      <name>en_US</name>
+    </language>
+    <masterpage></masterpage>
+    <mapFiles type="array"></mapFiles>
+  </content>
+  <type>frameless</type>
+  <glosstermEffect type="number">0</glosstermEffect>
+  <outputPath>C:/Users/user/Documents/My RoboHelp Projects/outputs/SC_General_Help_draft/Frameless</outputPath>
+  <name>Frameless</name>
+  <starterPage>cam_mgr_introduction.htm</starterPage>
+  <defaultTopic>
+    <name>cam_mgr_introduction.htm</name>
+    <path>../../contents/cam_mgr_introduction.htm</path>
+  </defaultTopic>
+  <mobileapp>
+    <android type="boolean">true</android>
+    <iOS type="boolean">false</iOS>
+  </mobileapp>
+  <search>
+    <suggestion type="boolean">true</suggestion>
+    <context type="boolean">false</context>
+    <contextLimit>100</contextLimit>
+    <glossary type="boolean">true</glossary>
+    <fuzzy type="boolean">true</fuzzy>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+    <helpBaseURL></helpBaseURL>
+    <changeFrequency></changeFrequency>
+  </sitemap>
+  <skin>
+    <path>../skins/Orange/frameless.skn</path>
+    <name>frameless</name>
+  </skin>
+  <createThumbNails type="boolean">false</createThumbNails>
+  <favicon>
+    <name>SolidCAM Logo</name>
+    <path>../../contents/assets/images/Common/SolidCAM Logo.png</path>
+  </favicon>
+  <patchHomepage type="boolean">true</patchHomepage>
+  <gdprCompliance type="boolean">true</gdprCompliance>
+</preset>

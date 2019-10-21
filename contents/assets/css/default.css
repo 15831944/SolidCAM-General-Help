@@ -1,0 +1,201 @@
+/*Created with Adobe RoboHelp 2019.*/
+body {
+  font-family: Calibri;
+}
+h1 {
+  font-weight: bold;
+  font-size: 14pt;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #555555;
+  border-left: 0;
+  border-top: 0;
+  border-right: 0;
+  border-top-left-radius: 1px;
+  border-top-right-radius: 1px;
+  border-bottom-right-radius: 1px;
+  border-bottom-left-radius: 1px;
+}
+h2 {
+  font-weight: bold;
+  font-size: 12pt;
+  font-family: Calibri;
+  text-decoration: underline;
+  color: #000000;
+}
+h3 {
+  font-size: 11pt;
+  font-family: Calibri;
+  font-weight: bold;
+}
+h4 {
+  font-weight: bold;
+  font-size: 12.0pt;
+}
+h5 {
+  font-weight: bold;
+  font-size: 10.0pt;
+}
+h6 {
+  font-weight: bold;
+  font-size: 8.0pt;
+}
+p {
+  font-size: 11.0pt;
+  margin-top: 4.0pt;
+  margin-bottom: 4.0pt;
+  font-family: Calibri;
+}
+a.expandspot {
+  color: #008000;
+  cursor: pointer;
+  font-style: italic;
+  text-decoration: none;
+}
+span.expandtext {
+  font-style: italic;
+  font-weight: normal;
+  color: #ff0000;
+}
+a.dropspot {
+  cursor: pointer;
+  color: #008000;
+  font-style: italic;
+  text-decoration: none;
+}
+a.glossterm {
+  color: #800000;
+  cursor: pointer;
+  font-style: italic;
+  text-decoration: none;
+}
+span.glosstext {
+  font-style: italic;
+  font-weight: normal;
+  color: #0000ff;
+}
+ol {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+ul {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+a.minitoc-caption {
+  text-decoration: none;
+  color: initial;
+  font-weight: bold;
+  font-size: 12pt;
+}
+p.minitoc-caption {
+  font-weight: bold;
+  font-size: 12pt;
+}
+ol.minitoc-list {
+  padding-left: 0;
+  margin-left: 0;
+  list-style: none;
+}
+ol.minitoc-list ol {
+  list-style: none;
+}
+a.minitoc-list-item {}
+p.seealso-caption {
+  font-weight: bold;
+  font-size: 12pt;
+}
+ol.seealso-list {
+  padding-left: 0;
+  margin-left: 0;
+  list-style: none;
+}
+a.seealso-list-item {}
+p.reltopics-caption {
+  font-weight: bold;
+  font-size: 12pt;
+}
+ol.reltopics-list {
+  padding-left: 0;
+  margin-left: 0;
+  list-style: none;
+}
+a.reltopics-list-item {}
+table {
+  text-align: left;
+}
+table tr:first-child td {
+  font-family: 'Calibri';
+  font-size: 14px;
+  color: #000000;
+  font-weight: bold;
+  padding-top: 4px;
+  padding-right: 4px;
+  padding-bottom: 4px;
+  padding-left: 4px;
+  background-color: #C0C0C0;
+}
+table tr:nth-child(even) td {
+  font-family: 'Calibri';
+  font-size: 14px;
+  color: #000000;
+  padding-top: 4px;
+  padding-right: 4px;
+  padding-bottom: 4px;
+  padding-left: 4px;
+  background-color: #F0F0F0;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #FFFFFF;
+}
+table tr:nth-child(odd) td {
+  font-family: 'Calibri';
+  font-size: 14px;
+  color: #000000;
+  padding-top: 4px;
+  padding-right: 4px;
+  padding-bottom: 4px;
+  padding-left: 4px;
+  background-color: #F0F0F0;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #FFFFFF;
+}
+table.header {}
+table.header tr:nth-child(odd) td {}
+table.header tr:first-child td {
+  font-family: 'Calibri';
+  font-size: 14px;
+  font-weight: bold;
+  padding-top: 4px;
+  padding-right: 4px;
+  padding-bottom: 4px;
+  padding-left: 4px;
+  background-color: #C0C0C0;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #FFFFFF;
+}
+table.header td:first-child {}
+table.Note {}
+table.Note td:first-child {
+  font-family: Calibri;
+  font-style: normal;
+  font-size: 11px;
+  color: #FF0000;
+  text: Note;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #000000;
+}
+table.Note tr:first-child td {
+  font-family: Calibri;
+}
+table.Note td:last-child {
+  font-family: Calibri;
+  font-size: 11px;
+  color: #000000;
+  border-width: 1px;
+  border-style: none;
+  border-color: transparent;
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+  <title>Table of Contents</title>
+  <book navtitle="CAM_Manager" format="html" processing-role="normal">
+    <page href="../contents/CAM_Manager/cam_manager.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/CAM_Manager/cam_mgr_introduction.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/CAM_Manager/cam_mgr_legend.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/CAM_Manager/item_search_in_cam_mgr.htm" format="html" processing-role="normal"></page>
+  </book>
+  <book navtitle="CAM_Settings" format="html" processing-role="normal">
+    <page href="../contents/CAM_Settings/CAM_settings.htm" format="html" processing-role="normal"></page>
+  </book>
+  <book navtitle="Appendix" format="html" processing-role="normal">
+    <book navtitle="License_Information" format="html" processing-role="normal">
+      <page href="../contents/Appendix/License_Information/CAM_modules_list.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/Appendix/License_Information/configurable_network_hardware_keys.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/Appendix/License_Information/license_information.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/Appendix/License_Information/security_hardware_key_update.htm" format="html" processing-role="normal"></page>
+    </book>
+    <page href="../contents/Appendix/system_requirements.htm" format="html" processing-role="normal"></page>
+  </book>
+</map>
